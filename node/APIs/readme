@@ -1,0 +1,5 @@
+esta pasta é para exercitar a chamada de APIs com o node.
+
+ao que entendi, o método de chamada de API padrão, que já vem com o Node, é o HTTP, o mesmo usado para configurar qualquer chamada com get() e post().
+
+mas ao que eu vi, essa biblioteca padrão do Node é bem verbosa, daí como encontrei outras mais simples antes, explorei elas primeiro.

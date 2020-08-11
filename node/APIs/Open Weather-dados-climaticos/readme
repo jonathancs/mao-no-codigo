@@ -1,0 +1,5 @@
+esta foi minha 1ª tentativa de consumir uma API, utilizei o pacote Request, já descontinuado desde fev/2020, e depois o fetch, por ser popular tambem.
+
+trata-se de uma API que retorna um Json com dados climáticos de uma cidade ou estado específico do mundo.
+
+não tenho nenhum front em mente para exibir os dados, provavelmente vou TENTAR (no futuro) monitorar as informações durante 1h, com uma chamada a cada 5 minutos, e documentar a variação.

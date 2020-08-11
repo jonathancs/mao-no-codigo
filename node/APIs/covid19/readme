@@ -1,0 +1,15 @@
+2ª tentativa de consumir uma API, e vai ser a dos dados do covid no brasil.
+
+não tenho nenhum front em mente para exibir os dados, 
+provavelmente vou monitorar as informações durante 1h, 
+dando um get a cada 5 minutos, e documentar a variação.
+
+APIs prontas de todo o mundo
+https://apify.com/covid-19
+
+dados do brasil.
+https://covid.saude.gov.br/
+
+uma outra utilidade que posso fazer, é usar o puppeteer 
+neste site dos dados do brasil, para ficar monitorando
+os dados por estado.

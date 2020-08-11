@@ -1,0 +1,9 @@
+esta foi minha 1ª tentativa de consumir uma API, utilizei o pacote Request, já descontinuado desde fev/2020.
+
+trata-se de uma API que retorna um Json com dados climáticos de 90% das regioes do mundo.
+
+encontrei a documentação na 1ª pagina de resultados do google.
+
+https://medium.com/trainingcenter/brincando-com-uma-api-simples-em-node-js-8c1a50c7aab3
+
+não tenho nenhum front em mente para exibir os dados, provavelmente vou monitorar as informações durante 1h, dando um get a cada 5 minutos, e documentar a variação.

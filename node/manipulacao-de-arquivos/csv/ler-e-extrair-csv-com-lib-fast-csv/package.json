@@ -1,0 +1,17 @@
+{
+  "name": "ler-e-extrair-csv-com-lib-csv-parse",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=zVlm_zUfitE\r seguindo este tutorial.\r lib fast-csv",
+  "main": "csv-parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.10.1",
+    "fast-csv": "^4.3.1"
+  },
+  "devDependencies": {}
+}

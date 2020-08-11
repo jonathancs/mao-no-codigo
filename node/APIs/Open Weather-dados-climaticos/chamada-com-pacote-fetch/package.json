@@ -1,0 +1,15 @@
+{
+  "name": "chamada-com-pacote-fetch",
+  "version": "1.0.0",
+  "description": "2020-06-10 21:25:39\r seguindo esta documentação\r https://dev.to/isalevine/three-ways-to-retrieve-json-from-the-web-using-node-js-3c88",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

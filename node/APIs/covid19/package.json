@@ -1,0 +1,16 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "2ª tentativa de consumir uma API, e vai ser a dos dados do covid no brasil.",
+  "main": "chamada-com-fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}

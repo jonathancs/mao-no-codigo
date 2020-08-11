@@ -1,0 +1,7 @@
+seguindo a dica de um dev node sr, pra iniciar bem como programador Node, preciso aprender como manusear arquivos Json, CSV, XLSX e PDF.
+
+o arquivo Json eu já fiz um intensivinho, inclusive puxando duas API com request e fetch, que retornavam um Json, e articulando as infos. 
+
+Está neste diretório, no path ''\mao-no-codigo\node\APIs'' as pastas ''covid19'' e ''Open Weather-dados-climaticos''.
+
+neste diretorio entao ficarao os codigos para manipular CSV, XLSX e PDF.

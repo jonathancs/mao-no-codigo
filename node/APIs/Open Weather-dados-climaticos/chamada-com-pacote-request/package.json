@@ -1,0 +1,15 @@
+{
+  "name": "chamadas-com-pacote-request",
+  "version": "1.0.0",
+  "description": "esta foi minha 1ª tentativa de consumir uma API, utilizei o pacote Request, já descontinuado desde fev/2020.",
+  "main": "requestTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

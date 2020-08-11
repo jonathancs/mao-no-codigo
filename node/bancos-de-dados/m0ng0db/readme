@@ -1,0 +1,9 @@
+inspirado no curso de Brad Schiff, projeto 1 e 2, estarei utilizando alguns pacotes que ele utiliza.
+
+o objetivo é praticar a validação dos dados antes de serem indexados no mongoDB.
+
+para isso, vou
+    subir um servidor node
+    responder um get renderizando uma view
+    validar os dados do input
+    conectar com o mongoDB e finalmente indexar no banco.
